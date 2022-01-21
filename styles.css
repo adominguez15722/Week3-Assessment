@@ -56,3 +56,9 @@ input {
 	list-style-type: none;
 	
 }
+
+.big-buttons {
+	background-color: yellow;
+	width: 150px;
+	height: 100px;
+}
