@@ -33,6 +33,26 @@ input {
 	display: block;
 }
 
-img {
-	max-width: 300px;
+.profile-h2 {
+	background-color: green;
+	color: white;
+	position: relative;
+}
+
+#interests {
+	background-color: orange;
+	color: white;
+}
+
+
+#interests-list	{
+	display: flex;
+	justify-content: space-around;
+	font-size: large;
+	border: dotted rgb(39, 22, 108);
+}
+
+.feedback{
+	list-style-type: none;
+	
 }
